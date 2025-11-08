@@ -98,9 +98,9 @@
 Mình là Minh Hùng — một lập trình viên yêu thích sáng tạo và chia sẻ kiến thức.  
 Mình thích làm việc với **Java, Kotlin**, và luôn tò mò khám phá những điều mới mẻ trong thế giới công nghệ.</strong></p>
   <br><br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/mi.hu.0812" target="_blank">https://www.facebook.com/imduyhai</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/mi.hu.0812" target="_blank">https://www.facebook.com/mi.hu.0812</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:hungvo081207@gmail.com" target="_top">duy.hai.network@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:hungvo081207@gmail.com" target="_top">hungvo081207@gmail.com</a></strong>
 </p>
 <!-- <a href="https://youtube.com/@duyhai902" target="_blank">
   <img src="images/ytb-lo-trinh-hoc-lap-trinh-web-va-gioi-thieu-kenh-trungquandev-mot-lap-trinh-vien.png" width="1200" alt="trungquandev-mot-lap-trinh-vien" />
@@ -110,5 +110,5 @@ Mình thích làm việc với **Java, Kotlin**, và luôn tò mò khám phá nh
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/duyhaidev-quotes.svg" width="846" height="150" alt="duyhaidev-mot-lap-trinh-vien-mern-stack-advanced" />
+  <img src="svg/duyhaidev-quotes.svg" width="846" height="150" alt="Hng1508-mot-lap-trinh-vien-mern-stack-advanced" />
 </a>

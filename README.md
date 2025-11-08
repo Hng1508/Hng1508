@@ -74,9 +74,9 @@
   <a href="https://youtube.com/@Hng-1508 "target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/duyhai" target="blank">
+  <!-- <a href="https://www.linkedin.com/in/duyhai" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a> 
+  </a>  -->
   <a href="https://instagram.com/hng1508" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>

@@ -52,11 +52,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Duyhaidev">
+  <a href="#" title="MinhHungdev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyHaiHub&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Duyhaidev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=DuyHaiHub&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <a href="#" title="MinhHungdev">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=MinhHungHub&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
 
@@ -95,12 +95,12 @@
   </a>
 </p> -->
 <p><strong>
-Mình là Duy Hải — một lập trình viên yêu thích sáng tạo và chia sẻ kiến thức.  
+Mình là Minh Hùng — một lập trình viên yêu thích sáng tạo và chia sẻ kiến thức.  
 Mình thích làm việc với **Java, Kotlin**, và luôn tò mò khám phá những điều mới mẻ trong thế giới công nghệ.</strong></p>
   <br><br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/imduyhai" target="_blank">https://www.facebook.com/imduyhai</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/mi.hu.0812" target="_blank">https://www.facebook.com/imduyhai</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:duy.hai.network@gmail.com" target="_top">duy.hai.network@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:hungvo081207@gmail.com" target="_top">duy.hai.network@gmail.com</a></strong>
 </p>
 <!-- <a href="https://youtube.com/@duyhai902" target="_blank">
   <img src="images/ytb-lo-trinh-hoc-lap-trinh-web-va-gioi-thieu-kenh-trungquandev-mot-lap-trinh-vien.png" width="1200" alt="trungquandev-mot-lap-trinh-vien" />
